@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">✨I'm studying Computer Engineering and I'm in my last semester.✨ <br>💻 I am developing web platforms with asp.net core .<br>💻 Interested in fullstack development.</h5>
+<h5 align="center">✨I'm studying Computer Engineering and I'm in my last semester.✨ <br>💻 I am developing web platforms with asp.net core .<br>💻 Interested in fullstack development.</h5>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
